@@ -17,18 +17,11 @@ Copy a data file of enUS, and then modify it to zhCN.
 ### To do list：
   1) DBC file localization(enus reads the first column text of DBC language, zhcn needs to read the fifth column)
   2) BLP texture replacement（such as loading screens and maps）
-     1.patch-enus\Interface\WorldMap\Hallso
-     2.patch-enus\Interface\WorldMap\TheCullingofStratholme
-     3.patch-enus\Interface\WorldMap\TheNexus
-     4.patch-enus\Interface\WorldMap\TheOculus
-     #
-     #
-     #
-     #
-     #
-     #
+     - [patch-enus\Interface\WorldMap\Hallso]
+     - [patch-enus\Interface\WorldMap\TheCullingofStratholme]
+     - [patch-enus\Interface\WorldMap\TheNexus]
+     - [patch-enus\Interface\WorldMap\TheOculus]
+
   4) sound file replacement
-     1.
-     2.
-     3.
-     4.
+     - [ ]
+     - [ ]
