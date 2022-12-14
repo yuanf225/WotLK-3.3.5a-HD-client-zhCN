@@ -23,5 +23,5 @@ Copy a data file of enUS, and then modify it to zhCN.
      - [patch-enus\Interface\WorldMap\TheOculus]
 
   4) sound file replacement
-     - [ ]
-     - [ ]
+     - [patch-enus\Sound\Creature\PathaleonTheCalculator]
+     - [speech-zhcn\Sound\Creature\Patch1.8_VO_Lines]
