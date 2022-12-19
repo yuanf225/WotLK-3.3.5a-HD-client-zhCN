@@ -14,9 +14,8 @@ Copy a data file of enUS, and then modify it to zhCN.
       Language=zh
       Region=5
   5) BLP texture replacement（such as loading screens and maps）
-  6) 
+  6) DBC file localization(enus reads the first column text of DBC language, zhcn needs to read the fifth column)
   
 ### To do list：
-  1) DBC file localization(enus reads the first column text of DBC language, zhcn needs to read the fifth column)
-  2) sound file replacement
+  1)sound file replacement
      - [speech-zhcn\Sound\Creature\Patch1.8_VO_Lines]
